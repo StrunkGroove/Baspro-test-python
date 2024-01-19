@@ -1,6 +1,6 @@
 # For start
 ```
-https://github.com/StrunkGroove/Baspro-test-python.git
+git clone https://github.com/StrunkGroove/Baspro-test-python.git
 ```
 ```
 cd Baspro-test-python/
